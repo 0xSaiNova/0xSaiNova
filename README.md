@@ -10,6 +10,8 @@ i build autonomous systems that think, negotiate, and act. multi-agent orchestra
 
 **[intentia](https://intentia.ai)** · matchmaking protocol for biotech and CDMOs. autonomous agents that discover, negotiate, and transact at network scale. hybrid SLM framework for on-device reasoning with reliability constraints. basically tinder for pharma, but the agents swipe for you and they never ghost.
 
+**[Nexus](https://github.com/0xSaiNova/NEXUS)** . privacy-first communication platform for everyone who values their privacy and system resources. Built with gamers as the priority, but designed for any community that refuses to trade data for features. Nexus is a Discord alternative where privacy isn't a promise, it's the architecture. The system literally cannot see your private conversations. No facial recognition. No government ID uploads. No surveillance disguised as safety. One you can verify, fork, and control
+
 **[heft](https://github.com/0xSaiNova/heft)** · disk space auditor that actually understands dev toolchains. one command to see where your gigabytes went. it knows the difference between a 4GB cargo target dir and a 4GB photo library. tracks snapshots over time so you can see what grew back after you cleaned up. also rust.
 
 **[keyheat](https://github.com/0xSaiNova/keyheat)** · terminal tool that tracks your keystrokes, WPM, typing trends, and shortcuts in real-time. built in rust. your keyboard has a story, this reads it. yes i built a keylogger on myself. no i will not elaborate.
