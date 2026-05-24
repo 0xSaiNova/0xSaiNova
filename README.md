@@ -12,7 +12,7 @@ i build autonomous systems that think, negotiate, and act. multi-agent orchestra
 **[keyheat](https://github.com/0xSaiNova/keyheat)** · terminal tool that tracks your keystrokes, WPM, typing trends, and shortcuts in real-time. built in rust. your keyboard has a story, this reads it. yes i built a keylogger on myself. no i will not elaborate.
 
 
-### things i learned building with LLMs that no docs will tell you
+### things i learned building with LLMs
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -44,14 +44,13 @@ i build autonomous systems that think, negotiate, and act. multi-agent orchestra
 
 <br>
 
-### tools i think with
+### tools i am comfortable working with
 
 ```
-languages     python · rust · typescript · javascript · sql
-frontend      astro · react · html · css · tailwind
-ml            pytorch · transformers · scikit-learn · langchain · embeddings · RAG
-agents        multi-agent orchestration · MCP tool-use · prompt engineering · RLVR
-infra         docker · azure · postgresql · mongodb · redis · anthropic sdk
+languages     python · rust · TS/JS · sql
+frontend      astro · react native · html 
+ml            tensorflow · transformers · langchain · embeddings · RAG
+infra         aws ·  · postgresql · chromadb · redis · supabase
 ```
 
 
